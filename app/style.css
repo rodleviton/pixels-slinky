@@ -1,0 +1,10 @@
+body {
+  background: #ffffff;
+}
+
+#pixels {
+  width: 340px;
+  height: 460px;
+  background: url("../screenshot.jpg");
+  background-size: cover;
+}
